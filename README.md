@@ -1,5 +1,5 @@
 # integrate-differential-equations
-API for integrate differential equations Start using it, go to [saturnapi.com/artw/integrate-differential-equations](https://saturnapi.com/artw/integrate-differential-equations). 
+API for integrate differential equations. Start using it, go to [saturnapi.com/artw/integrate-differential-equations](https://saturnapi.com/artw/integrate-differential-equations). 
 
 Find more APIs or contribute at [SaturnAPI.com](https://saturnapi.com).
 
